@@ -8,7 +8,7 @@ From the command line start a notepad and give it a file name. Yes you could do 
 
 ![Notepad create a file](screenshots/0008_new_file_w_notepad.png)
 
-What happened here, is when you gave a filename to notepad, it checked if the file existed when it turned out that it didn't, notepad program asked you to what to do. Choose that you want to create the file. Write some text in it, then save and close it. Once you run that command again, you will notice that notepad just loads the file.
+What happened here,is when you passed a filename to notepad, it checked if the file existed on the filesystem, when it turned out that it didn't, notepad program asked you to what to do. Choose that you want to create the file. Enter some text, then save and close the file. Once you run the command above for the second time, notepad will just loads an existing file -- the file you've created.
 
 ![Notepad load a file](screenshots/0009_load_file_w_notepad.png)
 
@@ -30,10 +30,6 @@ You can copy file with redirect operator
     cat my_test_file.txt > my_test_file_3.txt
 
 ![Examples of echo command and redirect operator](screenshots/0011_echo_redirect.png)
-
-A brief digression -- install Notepad++ (much better editor than Notepad)
-
-Go to https://notepad-plus-plus.org/download/v6.8.8.html download and install notepad++
 
 
 |Previous|Next|
