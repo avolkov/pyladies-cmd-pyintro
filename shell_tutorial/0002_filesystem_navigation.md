@@ -12,7 +12,7 @@ This tree programs are displaying location on the filesystem, Power Shell and Co
 
 ![Command Prompt, Power Shell, Windows Explorer](screenshots/0001_cmd_psh_exp.png)
 
-Switching to the same directory in Windows Explorer as in both shells is easy, just type the full path in the text field where libraries are, then press `Enter`
+Switching to the same directory in Windows Explorer as in both shells is easy, just type the full path in the text field where word 'Libraries' appears, then press `Enter`
 
 ![Change dir in Windows Explorer](screenshots/0002_cd_win_explorer.png)
 
