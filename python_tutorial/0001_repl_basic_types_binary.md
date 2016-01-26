@@ -4,9 +4,9 @@ Python REPL, basic types, binary
 
 ### Python REPL (Shell) basics
 
-REPL stands for Read, Eval, Print loop. It's an interactive language shell, much like command line shell it interactively executes commands, but unlike command prompt, these aren't somewhat arcane shorthand commands, but proper python syntax.
+REPL stands for Read, Eval, Print loop. It's an interactive language shell, much like command line shell it interactively executes commands, and unlike command prompt, these aren't somewhat arcane shorthand commands, but proper python syntax.
 
-Start up Windows PowerShell, and run Python shell inside of it by typing `python.exe`
+Start up Windows PowerShell, and run Python shell inside of it by typing `python`
 
 ![Python REPL](screenshots/0001_python_repl.png)
 
